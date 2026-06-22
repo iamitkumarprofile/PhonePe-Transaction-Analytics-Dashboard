@@ -40,7 +40,7 @@ PhonePe transaction dataset used for learning and analytics purposes.
 This project helped me gain hands-on experience in Power BI dashboard development, DAX calculations, KPI reporting, and business intelligence concepts.
 
 ## Note
-This project was created as part of my Power BI learning journey and was inspired by a tutorial from the DataCli YouTube channel. The project was recreated for educational purposes to strengthen Power BI skills.
+This project was created as part of my Power BI learning journey and was inspired by a tutorial. The project was recreated for educational purposes to strengthen Power BI skills.
 
 ## Author
 Amit Kumar Paswan
