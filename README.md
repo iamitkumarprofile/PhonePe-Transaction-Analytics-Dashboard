@@ -30,7 +30,7 @@ This project is an interactive Power BI dashboard built using PhonePe transactio
 - Business Insights Generation
 
 ## Project Preview
-[Dashboard Preview](<img width="1672" height="941" alt="dashboard" src="https://github.com/user-attachments/assets/fc0d63cd-dbc1-496e-897d-ce0fa0537c7f"/>
+[Dashboard Preview]([<img width="1672" height="941" alt="dashboard" src="https://github.com/user-attachments/assets/fc0d63cd-dbc1-496e-897d-ce0fa0537c7f"/>](https://github.com/iamitkumarprofile/PhonePe-Transaction-Analytics-Dashboard/blob/main/dashboard.png)
 )
 
 ## Dataset
